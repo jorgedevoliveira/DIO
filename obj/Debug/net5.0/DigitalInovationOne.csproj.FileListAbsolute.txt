@@ -1,0 +1,16 @@
+C:\Users\jorge\OneDrive - Univesp Acadêmico\K46CA\Área de Trabalho\DigitalInovationOne\bin\Debug\net5.0\DigitalInovationOne.exe
+C:\Users\jorge\OneDrive - Univesp Acadêmico\K46CA\Área de Trabalho\DigitalInovationOne\bin\Debug\net5.0\DigitalInovationOne.deps.json
+C:\Users\jorge\OneDrive - Univesp Acadêmico\K46CA\Área de Trabalho\DigitalInovationOne\bin\Debug\net5.0\DigitalInovationOne.runtimeconfig.json
+C:\Users\jorge\OneDrive - Univesp Acadêmico\K46CA\Área de Trabalho\DigitalInovationOne\bin\Debug\net5.0\DigitalInovationOne.runtimeconfig.dev.json
+C:\Users\jorge\OneDrive - Univesp Acadêmico\K46CA\Área de Trabalho\DigitalInovationOne\bin\Debug\net5.0\DigitalInovationOne.dll
+C:\Users\jorge\OneDrive - Univesp Acadêmico\K46CA\Área de Trabalho\DigitalInovationOne\bin\Debug\net5.0\ref\DigitalInovationOne.dll
+C:\Users\jorge\OneDrive - Univesp Acadêmico\K46CA\Área de Trabalho\DigitalInovationOne\bin\Debug\net5.0\DigitalInovationOne.pdb
+C:\Users\jorge\OneDrive - Univesp Acadêmico\K46CA\Área de Trabalho\DigitalInovationOne\obj\Debug\net5.0\DigitalInovationOne.csproj.AssemblyReference.cache
+C:\Users\jorge\OneDrive - Univesp Acadêmico\K46CA\Área de Trabalho\DigitalInovationOne\obj\Debug\net5.0\DigitalInovationOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\OneDrive - Univesp Acadêmico\K46CA\Área de Trabalho\DigitalInovationOne\obj\Debug\net5.0\DigitalInovationOne.AssemblyInfoInputs.cache
+C:\Users\jorge\OneDrive - Univesp Acadêmico\K46CA\Área de Trabalho\DigitalInovationOne\obj\Debug\net5.0\DigitalInovationOne.AssemblyInfo.cs
+C:\Users\jorge\OneDrive - Univesp Acadêmico\K46CA\Área de Trabalho\DigitalInovationOne\obj\Debug\net5.0\DigitalInovationOne.csproj.CoreCompileInputs.cache
+C:\Users\jorge\OneDrive - Univesp Acadêmico\K46CA\Área de Trabalho\DigitalInovationOne\obj\Debug\net5.0\DigitalInovationOne.dll
+C:\Users\jorge\OneDrive - Univesp Acadêmico\K46CA\Área de Trabalho\DigitalInovationOne\obj\Debug\net5.0\ref\DigitalInovationOne.dll
+C:\Users\jorge\OneDrive - Univesp Acadêmico\K46CA\Área de Trabalho\DigitalInovationOne\obj\Debug\net5.0\DigitalInovationOne.pdb
+C:\Users\jorge\OneDrive - Univesp Acadêmico\K46CA\Área de Trabalho\DigitalInovationOne\obj\Debug\net5.0\DigitalInovationOne.genruntimeconfig.cache
